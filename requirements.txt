@@ -1,0 +1,7 @@
+bcrypt==3.2.2
+colorama==0.4.4
+crypto==1.4.1
+cryptography==37.0.2
+pyAesCrypt==6.0.0
+pycrypto==2.6.1
+pyAesCrypt==6.0.0
